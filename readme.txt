@@ -1,4 +1,7 @@
 July 2022 Computing programming course by Teesside University
+
+Worksheet 4: File I/O
+
 [ASSESSMENT] Question 1: Sandwich Menu (sandwich.py)
 Write an interactive sandwich menu for a restaurant.
 1.	First, in Notepad, create a file that contains the names of different types of sandwiches, one per line (e.g. “Tuna Mayo”). Call this file menu.txt.
